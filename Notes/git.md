@@ -125,3 +125,13 @@ $git ssh-keygen -t rsa
 $git ssh -T git@github.com
 ```
 
+七、重命名
+
+```bash
+$git checkout <old_name>
+$git branch -m <new_name>
+$git push origin --delete <old_name>
+$git push origin -u <new_name>
+```
+
+​	
