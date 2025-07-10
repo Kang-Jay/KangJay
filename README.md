@@ -1,6 +1,6 @@
 ### 预览
 
-1. 使用PDF Embed AP实现[简历预览](https://docs.google.com/viewer?url=https://github.com/Kang-Jay/KangJay/raw/resume/Resume.pdf&embedded=true )
+1. 使用PDF Embed API实现[简历预览](https://docs.google.com/viewer?url=https://github.com/Kang-Jay/KangJay/raw/resume/Resume.pdf&embedded=true )
 2. 通过[Github Pages](https://kang-jay.github.io/KangJay/)实现简历预览
 
 (预览若有未渲染成功的情况, 请刷新或重新进入链接)
